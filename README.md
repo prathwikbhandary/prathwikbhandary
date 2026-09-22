@@ -182,10 +182,9 @@ class PrathwikBhandary:
 09  🎨 Responsive Interface
 ```
 
-🐍 CONTRIBUTION_ACTIVITY
+## 🐍 `CONTRIBUTION_ACTIVITY`
 
-
----
+![GitHub Contribution Snake](https://raw.githubusercontent.com/prathwikbhandary/prathwikbhandary/output/github-snake.svg)
 
 
 
