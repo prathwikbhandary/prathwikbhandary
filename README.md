@@ -6,7 +6,7 @@ Prathwik Bhandary
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=;I'm+Prathwik+Bhandary!;MCA+Student+%7C+Developer;Building+with+Python+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=1000&color=00E5FF&lines=Hi+There!+👋;I'm+Prathwik+Bhandary!;MCA+Student+%7C+Developer;Building+with+Python+%26+AI" />
 </p>
 
 <p align="center">
