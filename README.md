@@ -4,6 +4,44 @@
 
 ---
 
+# 👋 Hi There! I'm Prathwik Bhandary
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=1000&color=00E5FF&lines=Hi+There!+👋;I'm+Prathwik+Bhandary!;MCA+Student+%7C+Developer;Building+with+Python+%26+AI" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
+
+### Python Developer • Flask Developer • AI Enthusiast • Web Developer • Automation Builder
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=800&height=50&duration=3500&color=00E5FF&lines=Turning+ideas+into+working+systems;Building+web+apps+with+Python+%26+Flask;Exploring+AI+%26+Automation;Designing+%26+Developing+Digital+Experiences" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" width="500"/>
+</p>
+
+### 👨‍💻 About Me
+
+➜ 🎓 Currently pursuing **MCA**
+
+➜ 💻 Building applications with **Python & Flask**
+
+➜ 🤖 Exploring **AI integration & automation**
+
+➜ 🌐 Interested in **Web Development & Software Engineering**
+
+➜ 🎨 Also interested in **Graphic Design & Creative Technology**
+
+➜ 🚀 Currently building and experimenting with new projects
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+</p>
+
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
