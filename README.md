@@ -90,15 +90,30 @@ class PrathwikBhandary:
 
 ---
 
-# `02 // SYSTEM CAPABILITIES`
+![Divider](https://github.com/rhushihebbar07/rhushihebbar07/raw/main/assets/divider.gif)
 
-### ⚡ CORE TECHNOLOGY MATRIX
+## `02 / TECH STACK`
 
-![Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,sqlite\&perline=7)
+### LANGUAGES
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify\&perline=7)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp&theme=dark" />
+</p>
 
-![Design](https://skillicons.dev/icons?i=photoshop,figma\&perline=7)
+### FRAMEWORKS & DEVELOPMENT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,react,vite,nodejs&theme=dark" />
+</p>
+
+### DATA / CLOUD / TOOLS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,supabase,gcp,bigquery,git,github,vscode&theme=dark" />
+</p>
+
+![Divider](https://github.com/rhushihebbar07/rhushihebbar07/raw/main/assets/divider.gif)
+
 
 ```text
 ┌───────────────────────┬───────────────────────────────────────┐
