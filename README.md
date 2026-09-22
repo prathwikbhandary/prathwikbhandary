@@ -53,9 +53,6 @@ Prathwik Bhandary
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-### 🐍 My Contributions Getting Eaten Alive
-
-![snake animation](https://raw.githubusercontent.com/prathwikbhandary/prathwikbhandary/output/github-snake-pink.svg)
 
 ---
 
