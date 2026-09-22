@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prathwik Bhandary
+Prathwik Bhandary
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono\&size=22\&duration=2500\&pause=700\&color=00F5FF\&center=true\&vCenter=true\&width=850\&height=55\&lines=%3E+Initializing+PrathwikOS...;%3E+MCA+Developer+%7C+India;%3E+Building+AI-powered+web+systems;%3E+Automating+the+boring+stuff;%3E+Designing+the+future...)](https://git.io/typing-svg)
 
